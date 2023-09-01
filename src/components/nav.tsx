@@ -5,18 +5,13 @@ export default function Nav() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <ul className="navbar-nav">
         <li className="nav-item active">
-          <Link className="nav-link" to="/login">
+          <Link className="nav-link" to="/">
             Login
           </Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="/register">
             Register
-          </Link>
-        </li>
-        <li className="nav-item">
-          <Link className="nav-link" to="/info">
-            Info
           </Link>
         </li>
       </ul>

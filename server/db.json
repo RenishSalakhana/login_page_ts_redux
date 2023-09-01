@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "firstName": "Abc",
+      "lastname": "abc",
+      "username": "abc123",
+      "email": "abc123@gmail.com",
+      "password": "abcd@1234",
+      "cnfpassword": "abcd@1234",
+      "id": 1
+    },
+    {
+      "firstName": "Abc",
+      "lastname": "abc",
+      "username": "abc123",
+      "email": "abc@gmail.com",
+      "password": "abcd@1234",
+      "cnfpassword": "abcd@1234",
+      "id": 2
+    }
+  ]
+}
