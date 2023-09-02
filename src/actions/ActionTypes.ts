@@ -1,0 +1,4 @@
+  export const ADD_CONTACT = "ADD_CONTACT";
+  export const GET_USERS = "GET_USERS";
+  export const REGISTER_USER_SUCCESS = "REGISTER_USER_SUCCESS";
+  export const REGISTER_USER_FAILURE = "REGISTER_USER_FAILURE"; 
